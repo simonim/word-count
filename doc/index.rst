@@ -16,5 +16,3 @@ word-count
    credit.rst
    exercises.rst
    whatever.rst
-   
-   WHATEVER! :-)
